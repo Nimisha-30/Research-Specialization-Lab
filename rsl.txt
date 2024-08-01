@@ -1,0 +1,9 @@
+https://dl.acm.org/doi/abs/10.1145/3641399.3641434
+https://arxiv.org/abs/2303.07839
+https://arxiv.org/abs/2310.18648
+https://cloud.google.com/architecture/microservices-architecture-refactoring-monoliths
+https://cloud.google.com/learn/what-is-kubernetes
+rest api
+http
+docker
+soa
